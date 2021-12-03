@@ -31,11 +31,8 @@ Quality Assurance Associate
 - Resolve problems with products and production to reduce future errors. 
 - Fix defects to salvage material. 
 
-hello World
-Test
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
 
