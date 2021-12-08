@@ -3,7 +3,6 @@ layout: resume
 title: Braydon Coffin's Resume
 ---
 # Braydon Coffin
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
